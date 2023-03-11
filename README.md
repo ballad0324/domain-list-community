@@ -1,5 +1,5 @@
 # Domain list community
-
+https://github.com/ballad0324/domain-list-community/blob/master/data/category-porn
 This project manages a list of domains, to be used as geosites for routing purpose in Project V.
 
 ## Purpose of this project
